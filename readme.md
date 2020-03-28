@@ -13,7 +13,7 @@ This library is not seriously maintained.
 ## Installation
 
 ```js
-import $name from 'https://tomashubelbauer.github.io/esm/matrix/$kind/$name.js';
+import $name from 'https://tomashubelbauer.github.io/esm-matrix/$kind/$name.js';
 ```
 
 Substitute `$name` for the function name you want to use and `$kind` for either
